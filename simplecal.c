@@ -5,5 +5,6 @@ void main()
  printf("heyy");
  sub();
  pro(); 
+ printf("hello");
  div():
 }
