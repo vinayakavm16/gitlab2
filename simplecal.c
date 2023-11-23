@@ -2,7 +2,9 @@
 void main()
 {
  add();
+ //heyy//
  printf("heyy");
+ printf("heyyyyyyyyyyyy");
  sub();
  pro(); 
  printf("hello");
